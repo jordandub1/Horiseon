@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*Header*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -47,9 +48,6 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
 /*Hero Image*/
 .hero {
     height: 800px;
@@ -60,6 +58,7 @@ p {
     background-position: center;
 }
 
+/*SEO, ORM, SMM content sections*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -70,11 +69,14 @@ p {
     margin-left: 25px;
 }
 
-/*SEO, ORM, SMM content sections*/
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+}
+
+p {
+    font-size: 16px;
 }
 
 .search-engine-optimization, .online-reputation-management, .social-media-marketing {
