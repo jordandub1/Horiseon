@@ -25,6 +25,7 @@ The Horiseon Webpage was built to provide an online presence for the company, Ho
 
 * Faced a challenge when trying to combine CSS classes that had the same formatting. A quick W3 Schools search helped solve this problem.
 * Had some difficulties structuring the CSS file to match the order of the HTML elements. Practice came to help.
+* Had to remove and create a new repository to work from due to GitHub issues (which is why there are not many updates).
 
 Lastly, this project stands out due to the unique nature of the display properties and relative positioning of its content and images. 
   
