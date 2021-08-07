@@ -31,8 +31,6 @@ Lastly, this project stands out due to the unique nature of the display properti
   
 Here is a link to the deployed webpage: https://jordandub1.github.io/Horiseon/
 
-![Image of Horiseon Webpage 1](https://jordandub1.github.io/Horiseon/assets/images/Horiseon-screenshot1.png)
-
-![Image of Horiseon Webpage 2](https://jordandub1.github.io/Horiseon/assets/images/Horiseon-screenshot2.png)
+![Image of Horiseon Webpage](https://jordandub1.github.io/Horiseon/assets/images/full-page-screenshot.png)
 
 Enjoy!
